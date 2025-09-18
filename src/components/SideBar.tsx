@@ -12,6 +12,10 @@ const sidebarList = [
     link: "/step-form",
     label: "Step Form",
   },
+  {
+    link: "/nested-checkbox",
+    label: "Nested Checkbox",
+  },
 ];
 const SideBar = () => {
   const pathname = usePathname();
