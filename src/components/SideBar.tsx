@@ -24,6 +24,10 @@ const sidebarList = [
     link: "/todo",
     label: "Todo",
   },
+  {
+    link: "/searchable&FilterableList",
+    label: "Searchable&FilterableList",
+  },
 ];
 
 const SideBar = () => {
