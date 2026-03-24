@@ -32,6 +32,10 @@ const sidebarList = [
     link: "/kanbanBoard",
     label: "Kanban Board",
   },
+  {
+    link: "/nestedScroll",
+    label: "Nested Scroll",
+  },
 ];
 
 const SideBar = () => {
