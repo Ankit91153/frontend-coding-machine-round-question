@@ -28,6 +28,10 @@ const sidebarList = [
     link: "/searchable&FilterableList",
     label: "Searchable&FilterableList",
   },
+  {
+    link: "/kanbanBoard",
+    label: "Kanban Board",
+  },
 ];
 
 const SideBar = () => {
