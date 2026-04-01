@@ -36,6 +36,10 @@ const sidebarList = [
     link: "/nestedScroll",
     label: "Nested Scroll",
   },
+  {
+    link: "/basicchatbot",
+    label: "Basic ChatBot",
+  },
 ];
 
 const SideBar = () => {
